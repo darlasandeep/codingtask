@@ -1,0 +1,26 @@
+.App-title {
+  font-size: 1.5em;
+  color: #fff;
+}
+
+.App-content {
+  display: flex;
+  padding: 2%;
+}
+.half-width {
+  width: 50%;
+}
+.App-header {
+  font-family: Georgia;
+}
+.scrollMouse {
+  border: solid 2px #e8e8e8;
+  padding: 10px;
+  height: 50%;
+  font-family: Georgia;
+}
+.modal {
+  border: solid 2px #e8e8e8;
+  padding: 10px;
+  height: 50%;
+}

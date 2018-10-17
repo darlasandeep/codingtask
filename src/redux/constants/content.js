@@ -1,0 +1,9 @@
+export const ON_MOUSE_SCROLL = "ON_MOUSE_SCROLL";
+
+export const ON_MODAL_TOGGLE = "ON_MODAL_TOGGLE";
+
+export const ON_RESET_COUNT = "ON_RESET_COUNT";
+
+export const ON_FILTER_CHANGE = "ON_FILTER_CHANGE";
+
+export const ON_SORT_TOGGLE = "ON_SORT_TOGGLE";
